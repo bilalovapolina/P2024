@@ -3,11 +3,11 @@
 using namespace std;
 int main() {
 int a,b,s;
-cout<<"write a="<<endl;
+cout<<"Write a="<<endl;
 cin>>a;
-cout<<"write b="<<endl;
+cout<<"Write b="<<endl;
 cin>>b;
 s=a+b;
-cout<<"sum= "<<s<<endl;
+cout<<s<<" = "<<a<<" + "<<b<<endl;
 return 0;
 }

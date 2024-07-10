@@ -2,12 +2,12 @@
 #include <math.h>
 using namespace std;
 int main() {
-int a,b,s;
-cout<<"write a="<<endl;
+int a,b,sum;
+cout<<"Write a="<<endl;
 cin>>a;
-cout<<"write b="<<endl;
+cout<<"Write b="<<endl;
 cin>>b;
-s=a+b;
-cout<<"sum= "<<s<<endl;
+sum=a+b;
+cout<<a<<" + "<<b<<" = "<<sum<<endl;
 return 0;
 }
